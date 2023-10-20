@@ -20,13 +20,13 @@ header img {
 }
 
 main {
-    background-color: #f0f0f0;
+    background-color: #2e64e4;
     width: 75%;
     float: left;
 }
 
 aside {
-    background-color: #ddd;
+    background-color: #2e63df;
     width: 25%;
     float: left;
     min-width: 200px;
