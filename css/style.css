@@ -50,3 +50,26 @@ footer.right {
     float: left;
     width: 50%;
 }
+
+main {
+    background-color: #f0f0f0;
+    width: 75%;
+    float: left;
+}
+
+.news-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.news-column {
+    width: 25%; 
+    text-align: center;
+}
+
+main img {
+    width: 65px;
+    height: 65px;
+    float: left;
+}
