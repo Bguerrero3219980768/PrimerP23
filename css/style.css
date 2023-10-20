@@ -73,3 +73,48 @@ main img {
     height: 65px;
     float: left;
 }
+
+/* Tu CSS anterior ... */
+
+aside {
+    background-color: #ddd;
+    width: 25%;
+    float: left;
+    min-width: 200px;
+    min-height: 400px;
+}
+
+aside a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 0;
+    transition: color 0.3s;
+}
+
+aside a:hover {
+    color: #6490F5;
+}
+
+main {
+    background-color: #f0f0f0;
+    width: 75%;
+    float: left;
+}
+
+.news-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.news-column {
+    width: 25%; 
+    text-align: center;
+}
+
+main img {
+    width: 65px;
+    height: 65px;
+    float: left;
+}
